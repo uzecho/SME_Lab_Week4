@@ -12,4 +12,4 @@ sudo apt install ros-foxy-turtlesim
 ros2 run turtlesim turtlesim_node
 ```
 ### You will see simulator window like this:
-![](w4_screenshots/Screen Shot 2022-10-21 at 2.47.28 PM.png)
+![](https://github.com/Giyosbek99/SME_Lab/blob/8455690159b7fcc6dcca3831cf08b31a4f06556e/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.47.28%20PM.png)
