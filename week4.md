@@ -7,8 +7,9 @@ sudo apt update
 ```
 ### Install the turtlesim library
 ```
+sudo apt update
 
-```
+sudo apt install ros-foxy-turtlesim```
 ### Check that the package is installed
 ```
 
