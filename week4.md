@@ -17,9 +17,9 @@ ros2 run turtlesim turtlesim_node
 ```
 ros2 run turtlesim turtle_teleop_key
 ```
-### rqt installation
+## rqt installation
 
-# INSTALL THE RQT LIBRARY AND ITS PLUGINS
+### INSTALL THE RQT LIBRARY AND ITS PLUGINS
 ```
 sudo apt update
 
@@ -34,6 +34,7 @@ rqt
 ```
 ros2 run rqt_console 
 ```
+### Following:
 [](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.48.21%20PM.png)
 [](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.52.56%20PM.png)
 [](https://github.com/Giyosbek99/SME_Lab_Week4/tree/main/w4_screenshots#:~:text=Screen%20Shot%202022%2D10%2D21%20at%202.55.29%20PM.png)
