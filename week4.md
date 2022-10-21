@@ -35,8 +35,8 @@ rqt
 ros2 run rqt_console 
 ```
 ### Following:
-[](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.48.21%20PM.png)
-[](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.52.56%20PM.png)
-[](https://github.com/Giyosbek99/SME_Lab_Week4/tree/main/w4_screenshots#:~:text=Screen%20Shot%202022%2D10%2D21%20at%202.55.29%20PM.png)
-[](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.56.43%20PM.png)
-[](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%203.06.26%20PM.png)
+![](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.48.21%20PM.png)
+![](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.52.56%20PM.png)
+![](https://github.com/Giyosbek99/SME_Lab_Week4/tree/main/w4_screenshots#:~:text=Screen%20Shot%202022%2D10%2D21%20at%202.55.29%20PM.png)
+![](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%202.56.43%20PM.png)
+![](https://github.com/Giyosbek99/SME_Lab_Week4/blob/main/w4_screenshots/Screen%20Shot%202022-10-21%20at%203.06.26%20PM.png)
